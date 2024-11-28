@@ -17,8 +17,7 @@ TeamId can be found in ClickUp URL after login to app.
 ### Generate Token 
 
 1. Open ClickUp page and login.
-2. Find your profile icon in the bottom left corner and click it. 
-3. Click My Settings.
-4. Find Apps setting in My APPS.
+2. Find your profile icon in the top left corner and click on Settings button. 
+3. Click Apps.
 5. Generate token. 
 
