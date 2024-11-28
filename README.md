@@ -2,7 +2,7 @@
 
 1. Dowland Postman Collections file.
 2. Run postman.
-3. Import ClikUp_E2E.json file and ClickUp.postman_environment.json environment file to Postman.
+3. Import ClikUpE2E.json file and ClickUp.postman_environment.json environment file to Postman.
 4. Open yours ClickUp account or create ClikUp account from website https://app.clickup.com 
 
 ## Add enviroment data 
